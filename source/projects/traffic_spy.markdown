@@ -194,6 +194,11 @@ When an identifier does not exist return a page that displays the following:
 
 * Message that the identifier does not exist
 
+When an identifier exists, but not payload data has been received for that source
+
+* Message that no data has been received for the source
+
+
 ### Application URL Statistics
 
 A client is able to view URL specific data at the following address:
